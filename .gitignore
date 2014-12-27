@@ -52,3 +52,5 @@ coverage.xml
 # Sphinx documentation
 docs/_build/
 
+# IPython Notebook checkpoints (should I be saving these - it doesn't seem like it)
+.ipynb_checkpoints
